@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- These are the options displayed in the demographic drop-down Spinner -->
+    <string-array name="array_demographic_options">
+        <item>@string/demographic_family</item>
+        <item>@string/demographic_children</item>
+        <item>@string/demographic_adult</item>
+    </string-array>
+</resources>
